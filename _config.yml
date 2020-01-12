@@ -1,1 +1,9 @@
+# SITE CONFIGURATION
+baseurl: ""
+url: "https://emily-helzer.github.io"
+
+# THEME-SPECIFIC CONFIGURATION
+title: Emily-Helzer                 # site's title
+description: "Programming and Personal Blog"               # used by search engines
+
 theme: jekyll-theme-minimal
